@@ -1,4 +1,4 @@
-# fullstack-backend
+# Fullstack-Backend
 
 This repository contains the backend section of a full-stack web application built with Spring Boot, React, and SQL. The backend is responsible for data processing, business logic, and interaction with the database using JPA Hibernate for seamless and efficient data persistence.
 
